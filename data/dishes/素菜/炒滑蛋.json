@@ -1,0 +1,60 @@
+{
+  "id": "素菜/炒滑蛋",
+  "md": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+  "name": "炒滑蛋",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 1,
+  "calories": 391,
+  "time": "5分钟",
+  "desc": "炒滑蛋是一道口感嫩滑、蛋香浓郁的经典家常菜，带有淡淡的奶香。鸡蛋富含优质蛋白质和多种维生素，营养丰富，易于吸收。做法非常友好，新手也能轻松掌握，从备料到出锅只需约 5 分钟，是忙碌时快速补充能量的理想选择。",
+  "ingredients": [
+    "鸡蛋（最好是无菌蛋）",
+    "牛奶"
+  ],
+  "steps": [
+    {
+      "title": null,
+      "items": [
+        {
+          "sub": false,
+          "text": "鸡蛋加入牛奶以及 5ml 食用油搅拌均匀，备用"
+        },
+        {
+          "sub": false,
+          "text": "大火烧热平底锅约 30s, 加入 5ml 食用油"
+        },
+        {
+          "sub": false,
+          "text": "烧 30s 转小火, 并且放入搅拌好的鸡蛋"
+        },
+        {
+          "sub": false,
+          "text": "在锅中静置 5 秒后，用锅铲将蛋液从边缘缓慢推向中间"
+        },
+        {
+          "sub": false,
+          "text": "翻炒至鸡蛋大致凝固后关火，装盘"
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "最后可根据个人口味撒些黑胡椒或者盐来调味。",
+    "参考资料"
+  ],
+  "video": null,
+  "refs": [
+    {
+      "text": "甜琛廚房",
+      "url": "http://sweetheartkitchen.com/recipes/scrambled-egg/"
+    }
+  ],
+  "image": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.jpg",
+  "calc": [
+    "每份：",
+    "鸡蛋 4 颗",
+    "牛奶 30ml",
+    "食用油 10ml"
+  ]
+}

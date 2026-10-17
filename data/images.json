@@ -1,0 +1,2388 @@
+{
+  "version": "2026-10-05",
+  "source": "Anduin2017/HowToCook",
+  "branch": "master",
+  "base": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/",
+  "count": 370,
+  "optional_count": 176,
+  "required": [
+    {
+      "path": "xcf/红烧鲤鱼.jpg",
+      "size": 88928,
+      "builtin": true
+    },
+    {
+      "path": "xcf/红烧鱼.jpg",
+      "size": 38575,
+      "builtin": true
+    },
+    {
+      "path": "xcf/红烧鱼头.jpg",
+      "size": 58499,
+      "builtin": true
+    },
+    {
+      "path": "xcf/酱炖蟹.jpg",
+      "size": 159020,
+      "builtin": true
+    },
+    {
+      "path": "xcf/咖喱炒蟹.jpg",
+      "size": 147557,
+      "builtin": true
+    },
+    {
+      "path": "xcf/清蒸生蚝.jpg",
+      "size": 73207,
+      "builtin": true
+    },
+    {
+      "path": "xcf/肉蟹煲.jpg",
+      "size": 208328,
+      "builtin": true
+    },
+    {
+      "path": "xcf/水煮鱼.jpg",
+      "size": 187641,
+      "builtin": true
+    },
+    {
+      "path": "xcf/微波葱姜黑鳕鱼.jpg",
+      "size": 5471629,
+      "builtin": true
+    },
+    {
+      "path": "xcf/响油鳝丝.jpg",
+      "size": 39449,
+      "builtin": true
+    },
+    {
+      "path": "xcf/茶叶蛋.jpg",
+      "size": 133296,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蛋煎糍粑.jpg",
+      "size": 44116,
+      "builtin": true
+    },
+    {
+      "path": "xcf/桂圆红枣粥.jpg",
+      "size": 41029,
+      "builtin": true
+    },
+    {
+      "path": "xcf/韩国麻药鸡蛋.jpg",
+      "size": 68883,
+      "builtin": true
+    },
+    {
+      "path": "xcf/鸡蛋三明治.jpg",
+      "size": 273109,
+      "builtin": true
+    },
+    {
+      "path": "xcf/煎饺.jpg",
+      "size": 109391,
+      "builtin": true
+    },
+    {
+      "path": "xcf/金枪鱼酱三明治.jpg",
+      "size": 214808,
+      "builtin": true
+    },
+    {
+      "path": "xcf/空气炸锅面包片.jpg",
+      "size": 159335,
+      "builtin": true
+    },
+    {
+      "path": "xcf/美式炒蛋.jpg",
+      "size": 129979,
+      "builtin": true
+    },
+    {
+      "path": "xcf/牛奶燕麦.jpg",
+      "size": 252294,
+      "builtin": true
+    },
+    {
+      "path": "xcf/手抓饼.jpg",
+      "size": 50478,
+      "builtin": true
+    },
+    {
+      "path": "xcf/水煮玉米.jpg",
+      "size": 38664,
+      "builtin": true
+    },
+    {
+      "path": "xcf/太阳蛋.jpg",
+      "size": 55399,
+      "builtin": true
+    },
+    {
+      "path": "xcf/溏心蛋.jpg",
+      "size": 341851,
+      "builtin": true
+    },
+    {
+      "path": "xcf/吐司果酱.jpg",
+      "size": 204003,
+      "builtin": true
+    },
+    {
+      "path": "xcf/完美水煮蛋.jpg",
+      "size": 98879,
+      "builtin": true
+    },
+    {
+      "path": "xcf/微波炉蛋糕.jpg",
+      "size": 73358,
+      "builtin": true
+    },
+    {
+      "path": "xcf/微波炉荷包蛋.jpg",
+      "size": 21485,
+      "builtin": true
+    },
+    {
+      "path": "xcf/微波炉蒸蛋.jpg",
+      "size": 105484,
+      "builtin": true
+    },
+    {
+      "path": "xcf/温泉蛋.jpg",
+      "size": 20361,
+      "builtin": true
+    },
+    {
+      "path": "xcf/燕麦鸡蛋饼.jpg",
+      "size": 66487,
+      "builtin": true
+    },
+    {
+      "path": "xcf/意式香肠北非蛋.jpg",
+      "size": 182454,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蒸花卷.jpg",
+      "size": 60512,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蒸水蛋.jpg",
+      "size": 42130,
+      "builtin": true
+    },
+    {
+      "path": "xcf/葱油.jpg",
+      "size": 97257,
+      "builtin": true
+    },
+    {
+      "path": "xcf/简易版炒糖色.jpg",
+      "size": 135704,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蒜香酱油.jpg",
+      "size": 119726,
+      "builtin": true
+    },
+    {
+      "path": "xcf/糖醋汁.jpg",
+      "size": 174930,
+      "builtin": true
+    },
+    {
+      "path": "xcf/油酥.jpg",
+      "size": 76185,
+      "builtin": true
+    },
+    {
+      "path": "xcf/炸串酱料.jpg",
+      "size": 91181,
+      "builtin": true
+    },
+    {
+      "path": "xcf/奥利奥冰淇淋.jpg",
+      "size": 42214,
+      "builtin": true
+    },
+    {
+      "path": "xcf/草莓冰淇淋.jpg",
+      "size": 137940,
+      "builtin": true
+    },
+    {
+      "path": "xcf/红柚蛋糕.jpg",
+      "size": 303530,
+      "builtin": true
+    },
+    {
+      "path": "xcf/胡萝卜甜糕.jpg",
+      "size": 94743,
+      "builtin": true
+    },
+    {
+      "path": "xcf/魔芋蛋糕.jpg",
+      "size": 129613,
+      "builtin": true
+    },
+    {
+      "path": "xcf/冬瓜茶.jpg",
+      "size": 97816,
+      "builtin": true
+    },
+    {
+      "path": "xcf/可乐桶.jpg",
+      "size": 283015,
+      "builtin": true
+    },
+    {
+      "path": "xcf/奶茶.jpg",
+      "size": 72836,
+      "builtin": true
+    },
+    {
+      "path": "xcf/牛油果拉西.jpg",
+      "size": 30992,
+      "builtin": true
+    },
+    {
+      "path": "xcf/酸梅汤.jpg",
+      "size": 111123,
+      "builtin": true
+    },
+    {
+      "path": "xcf/酸梅汤（半成品加工）.jpg",
+      "size": 111123,
+      "builtin": true
+    },
+    {
+      "path": "xcf/杨枝甘露.jpg",
+      "size": 75229,
+      "builtin": true
+    },
+    {
+      "path": "xcf/印度奶茶.jpg",
+      "size": 42012,
+      "builtin": true
+    },
+    {
+      "path": "xcf/长岛冰茶.jpg",
+      "size": 27795,
+      "builtin": true
+    },
+    {
+      "path": "xcf/B52轰炸机.jpg",
+      "size": 66738,
+      "builtin": true
+    },
+    {
+      "path": "xcf/Mojito莫吉托.jpg",
+      "size": 57018,
+      "builtin": true
+    },
+    {
+      "path": "xcf/奥尔良风味烤鸡腿.jpg",
+      "size": 104225,
+      "builtin": true
+    },
+    {
+      "path": "xcf/白菜猪肉炖粉条.jpg",
+      "size": 39257,
+      "builtin": true
+    },
+    {
+      "path": "xcf/豉汁排骨.jpg",
+      "size": 83601,
+      "builtin": true
+    },
+    {
+      "path": "xcf/葱烧鸡腿.jpg",
+      "size": 182369,
+      "builtin": true
+    },
+    {
+      "path": "xcf/带把肘子.jpg",
+      "size": 105329,
+      "builtin": true
+    },
+    {
+      "path": "xcf/冬瓜桑拿鸡.jpg",
+      "size": 309338,
+      "builtin": true
+    },
+    {
+      "path": "xcf/番茄红酱.jpg",
+      "size": 379774,
+      "builtin": true
+    },
+    {
+      "path": "xcf/粉蒸肉.jpg",
+      "size": 309881,
+      "builtin": true
+    },
+    {
+      "path": "xcf/腐乳肉.jpg",
+      "size": 65185,
+      "builtin": true
+    },
+    {
+      "path": "xcf/咕噜肉.jpg",
+      "size": 109685,
+      "builtin": true
+    },
+    {
+      "path": "xcf/红烧鸡翅.jpg",
+      "size": 54247,
+      "builtin": true
+    },
+    {
+      "path": "xcf/虎皮肘子.jpg",
+      "size": 114043,
+      "builtin": true
+    },
+    {
+      "path": "xcf/黄瓜炒肉.jpg",
+      "size": 94541,
+      "builtin": true
+    },
+    {
+      "path": "xcf/黄焖鸡.jpg",
+      "size": 91653,
+      "builtin": true
+    },
+    {
+      "path": "xcf/黄油鸡.jpg",
+      "size": 139082,
+      "builtin": true
+    },
+    {
+      "path": "xcf/尖椒炒牛肉.jpg",
+      "size": 128950,
+      "builtin": true
+    },
+    {
+      "path": "xcf/煎烤羊排.jpg",
+      "size": 137700,
+      "builtin": true
+    },
+    {
+      "path": "xcf/简易红烧肉.jpg",
+      "size": 127592,
+      "builtin": true
+    },
+    {
+      "path": "xcf/姜葱捞鸡.png",
+      "size": 433028,
+      "builtin": true
+    },
+    {
+      "path": "xcf/椒盐排条.jpg",
+      "size": 30879,
+      "builtin": true
+    },
+    {
+      "path": "xcf/烤鸡翅.jpg",
+      "size": 234561,
+      "builtin": true
+    },
+    {
+      "path": "xcf/可乐鸡翅.jpg",
+      "size": 102442,
+      "builtin": true
+    },
+    {
+      "path": "xcf/辣椒炒肉.jpg",
+      "size": 59319,
+      "builtin": true
+    },
+    {
+      "path": "xcf/冷吃兔.jpg",
+      "size": 74122,
+      "builtin": true
+    },
+    {
+      "path": "xcf/萝卜炖羊排.jpg",
+      "size": 34027,
+      "builtin": true
+    },
+    {
+      "path": "xcf/麻辣香锅.jpg",
+      "size": 54692,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蚂蚁上树.jpg",
+      "size": 103949,
+      "builtin": true
+    },
+    {
+      "path": "xcf/南派红烧肉.jpg",
+      "size": 42373,
+      "builtin": true
+    },
+    {
+      "path": "xcf/肉饼炖蛋.jpg",
+      "size": 219490,
+      "builtin": true
+    },
+    {
+      "path": "xcf/杀猪菜.jpg",
+      "size": 26148,
+      "builtin": true
+    },
+    {
+      "path": "xcf/山西过油肉.jpg",
+      "size": 49589,
+      "builtin": true
+    },
+    {
+      "path": "xcf/商芝肉.jpg",
+      "size": 86596,
+      "builtin": true
+    },
+    {
+      "path": "xcf/水煮肉片.jpg",
+      "size": 312308,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蒜苔炒肉末.jpg",
+      "size": 89311,
+      "builtin": true
+    },
+    {
+      "path": "xcf/糖醋里脊.jpg",
+      "size": 47626,
+      "builtin": true
+    },
+    {
+      "path": "xcf/甜辣烤全翅.jpg",
+      "size": 38451,
+      "builtin": true
+    },
+    {
+      "path": "xcf/西红柿牛腩.jpg",
+      "size": 104553,
+      "builtin": true
+    },
+    {
+      "path": "xcf/乡村啤酒鸭.jpg",
+      "size": 80696,
+      "builtin": true
+    },
+    {
+      "path": "xcf/香干肉丝.jpg",
+      "size": 208445,
+      "builtin": true
+    },
+    {
+      "path": "xcf/小炒肉.jpg",
+      "size": 44942,
+      "builtin": true
+    },
+    {
+      "path": "xcf/小米辣炒肉.jpg",
+      "size": 129929,
+      "builtin": true
+    },
+    {
+      "path": "xcf/小酥肉.jpg",
+      "size": 197560,
+      "builtin": true
+    },
+    {
+      "path": "xcf/洋葱炒猪肉.jpg",
+      "size": 199571,
+      "builtin": true
+    },
+    {
+      "path": "xcf/意式烤鸡.jpg",
+      "size": 35420,
+      "builtin": true
+    },
+    {
+      "path": "xcf/鱼香肉丝.jpg",
+      "size": 54070,
+      "builtin": true
+    },
+    {
+      "path": "xcf/枝竹羊腩煲.jpg",
+      "size": 152879,
+      "builtin": true
+    },
+    {
+      "path": "xcf/猪肉烩酸菜.jpg",
+      "size": 142743,
+      "builtin": true
+    },
+    {
+      "path": "xcf/孜然牛肉.jpg",
+      "size": 47523,
+      "builtin": true
+    },
+    {
+      "path": "xcf/半成品意面.jpg",
+      "size": 153708,
+      "builtin": true
+    },
+    {
+      "path": "xcf/凉皮.jpg",
+      "size": 50940,
+      "builtin": true
+    },
+    {
+      "path": "xcf/牛油火锅底料.jpg",
+      "size": 75074,
+      "builtin": true
+    },
+    {
+      "path": "xcf/速冻馄饨.jpg",
+      "size": 102352,
+      "builtin": true
+    },
+    {
+      "path": "xcf/速冻水饺.jpg",
+      "size": 57907,
+      "builtin": true
+    },
+    {
+      "path": "xcf/番茄牛肉蛋花汤.jpg",
+      "size": 118416,
+      "builtin": true
+    },
+    {
+      "path": "xcf/黄瓜皮蛋汤.jpg",
+      "size": 100870,
+      "builtin": true
+    },
+    {
+      "path": "xcf/金针菇汤.jpg",
+      "size": 257301,
+      "builtin": true
+    },
+    {
+      "path": "xcf/腊八粥.jpg",
+      "size": 118853,
+      "builtin": true
+    },
+    {
+      "path": "xcf/罗宋汤.jpg",
+      "size": 32945,
+      "builtin": true
+    },
+    {
+      "path": "xcf/米粥.jpg",
+      "size": 132251,
+      "builtin": true
+    },
+    {
+      "path": "xcf/奶油蘑菇汤.jpg",
+      "size": 70197,
+      "builtin": true
+    },
+    {
+      "path": "xcf/排骨苦瓜汤.jpg",
+      "size": 57018,
+      "builtin": true
+    },
+    {
+      "path": "xcf/排骨山药玉米汤.jpg",
+      "size": 72222,
+      "builtin": true
+    },
+    {
+      "path": "xcf/皮蛋瘦肉粥.jpg",
+      "size": 34435,
+      "builtin": true
+    },
+    {
+      "path": "xcf/山药南瓜炖鸡汤.jpg",
+      "size": 69500,
+      "builtin": true
+    },
+    {
+      "path": "xcf/生汆丸子汤.jpg",
+      "size": 89700,
+      "builtin": true
+    },
+    {
+      "path": "xcf/西红柿鸡蛋汤.jpg",
+      "size": 123285,
+      "builtin": true
+    },
+    {
+      "path": "xcf/小米粥.jpg",
+      "size": 35410,
+      "builtin": true
+    },
+    {
+      "path": "xcf/紫菜蛋花汤.jpg",
+      "size": 32486,
+      "builtin": true
+    },
+    {
+      "path": "xcf/炒河粉.jpg",
+      "size": 97820,
+      "builtin": true
+    },
+    {
+      "path": "xcf/炒馍.jpg",
+      "size": 98473,
+      "builtin": true
+    },
+    {
+      "path": "xcf/炒年糕.jpg",
+      "size": 269361,
+      "builtin": true
+    },
+    {
+      "path": "xcf/葱油拌面.jpg",
+      "size": 158385,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蛋包饭.jpg",
+      "size": 35435,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蛋炒饭.jpg",
+      "size": 211315,
+      "builtin": true
+    },
+    {
+      "path": "xcf/电饭煲蒸米饭.jpg",
+      "size": 101372,
+      "builtin": true
+    },
+    {
+      "path": "xcf/豆角焖面.jpg",
+      "size": 109070,
+      "builtin": true
+    },
+    {
+      "path": "xcf/红芸豆拌饭.jpg",
+      "size": 40415,
+      "builtin": true
+    },
+    {
+      "path": "xcf/韭菜盒子.jpg",
+      "size": 77228,
+      "builtin": true
+    },
+    {
+      "path": "xcf/可乐炒饭.jpg",
+      "size": 150724,
+      "builtin": true
+    },
+    {
+      "path": "xcf/醪糟小汤圆.jpg",
+      "size": 61558,
+      "builtin": true
+    },
+    {
+      "path": "xcf/老干妈拌面.jpg",
+      "size": 49589,
+      "builtin": true
+    },
+    {
+      "path": "xcf/利提巧卡.jpg",
+      "size": 99172,
+      "builtin": true
+    },
+    {
+      "path": "xcf/螺蛳粉.jpg",
+      "size": 32163,
+      "builtin": true
+    },
+    {
+      "path": "xcf/麻辣减脂荞麦面.jpg",
+      "size": 178011,
+      "builtin": true
+    },
+    {
+      "path": "xcf/麻油拌面.jpg",
+      "size": 203325,
+      "builtin": true
+    },
+    {
+      "path": "xcf/热干面.jpg",
+      "size": 284381,
+      "builtin": true
+    },
+    {
+      "path": "xcf/肉蛋盖饭.jpg",
+      "size": 361379,
+      "builtin": true
+    },
+    {
+      "path": "xcf/手工水饺.jpg",
+      "size": 121617,
+      "builtin": true
+    },
+    {
+      "path": "xcf/酸辣蕨根粉.jpg",
+      "size": 164462,
+      "builtin": true
+    },
+    {
+      "path": "xcf/汤面.jpg",
+      "size": 118742,
+      "builtin": true
+    },
+    {
+      "path": "xcf/滕州菜煎饼.jpg",
+      "size": 107490,
+      "builtin": true
+    },
+    {
+      "path": "xcf/鲜肉烧卖.jpg",
+      "size": 182668,
+      "builtin": true
+    },
+    {
+      "path": "xcf/咸肉菜饭.jpg",
+      "size": 23206,
+      "builtin": true
+    },
+    {
+      "path": "xcf/印度烤饼.jpg",
+      "size": 99172,
+      "builtin": true
+    },
+    {
+      "path": "xcf/印度焖饭.jpg",
+      "size": 170987,
+      "builtin": true
+    },
+    {
+      "path": "xcf/鹰嘴豆炸饼.jpg",
+      "size": 244530,
+      "builtin": true
+    },
+    {
+      "path": "xcf/炸酱面.jpg",
+      "size": 239787,
+      "builtin": true
+    },
+    {
+      "path": "xcf/照烧鸡腿饭.jpg",
+      "size": 154515,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蒸卤面.jpg",
+      "size": 165850,
+      "builtin": true
+    },
+    {
+      "path": "xcf/中式馅饼.jpg",
+      "size": 140251,
+      "builtin": true
+    },
+    {
+      "path": "xcf/猪油拌饭.jpg",
+      "size": 181322,
+      "builtin": true
+    },
+    {
+      "path": "xcf/煮锅蒸米饭.jpg",
+      "size": 106619,
+      "builtin": true
+    },
+    {
+      "path": "xcf/煮泡面加蛋.jpg",
+      "size": 63968,
+      "builtin": true
+    },
+    {
+      "path": "xcf/炒茄子.jpg",
+      "size": 40463,
+      "builtin": true
+    },
+    {
+      "path": "xcf/炒青菜.jpg",
+      "size": 98828,
+      "builtin": true
+    },
+    {
+      "path": "xcf/炒土豆和胡萝卜蒸菜.jpg",
+      "size": 197479,
+      "builtin": true
+    },
+    {
+      "path": "xcf/葱煎豆腐.jpg",
+      "size": 126775,
+      "builtin": true
+    },
+    {
+      "path": "xcf/脆皮豆腐.jpg",
+      "size": 149059,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蚝油生菜.jpg",
+      "size": 186564,
+      "builtin": true
+    },
+    {
+      "path": "xcf/红烧茄子.jpg",
+      "size": 85682,
+      "builtin": true
+    },
+    {
+      "path": "xcf/鸡蛋花.jpg",
+      "size": 38556,
+      "builtin": true
+    },
+    {
+      "path": "xcf/鸡蛋火腿炒黄瓜.jpg",
+      "size": 63238,
+      "builtin": true
+    },
+    {
+      "path": "xcf/茄子炖土豆.jpg",
+      "size": 63142,
+      "builtin": true
+    },
+    {
+      "path": "xcf/家常日本豆腐.jpg",
+      "size": 145260,
+      "builtin": true
+    },
+    {
+      "path": "xcf/金钱蛋.jpg",
+      "size": 132775,
+      "builtin": true
+    },
+    {
+      "path": "xcf/金针菇日本豆腐煲.jpg",
+      "size": 87968,
+      "builtin": true
+    },
+    {
+      "path": "xcf/韭菜炒蛋.jpg",
+      "size": 156012,
+      "builtin": true
+    },
+    {
+      "path": "xcf/雷椒皮蛋.jpg",
+      "size": 362316,
+      "builtin": true
+    },
+    {
+      "path": "xcf/凉拌豆腐.jpg",
+      "size": 70322,
+      "builtin": true
+    },
+    {
+      "path": "xcf/凉拌黄瓜.jpg",
+      "size": 92240,
+      "builtin": true
+    },
+    {
+      "path": "xcf/凉拌金针菇.jpg",
+      "size": 21258,
+      "builtin": true
+    },
+    {
+      "path": "xcf/凉拌油麦菜.jpg",
+      "size": 50698,
+      "builtin": true
+    },
+    {
+      "path": "xcf/皮蛋豆腐.jpg",
+      "size": 111190,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蒲烧茄子.jpg",
+      "size": 140848,
+      "builtin": true
+    },
+    {
+      "path": "xcf/清炒花菜.jpg",
+      "size": 120417,
+      "builtin": true
+    },
+    {
+      "path": "xcf/清蒸南瓜.jpg",
+      "size": 101336,
+      "builtin": true
+    },
+    {
+      "path": "xcf/陕北熬豆角.jpg",
+      "size": 188519,
+      "builtin": true
+    },
+    {
+      "path": "xcf/水油焖蔬菜.jpg",
+      "size": 80437,
+      "builtin": true
+    },
+    {
+      "path": "xcf/松仁玉米.jpg",
+      "size": 41292,
+      "builtin": true
+    },
+    {
+      "path": "xcf/素炒豆角.jpg",
+      "size": 46936,
+      "builtin": true
+    },
+    {
+      "path": "xcf/酸辣土豆丝.jpg",
+      "size": 50966,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蒜蓉西兰花.jpg",
+      "size": 100876,
+      "builtin": true
+    },
+    {
+      "path": "xcf/西红柿炒鸡蛋.jpg",
+      "size": 256297,
+      "builtin": true
+    },
+    {
+      "path": "xcf/印度土豆花菜.jpg",
+      "size": 42694,
+      "builtin": true
+    },
+    {
+      "path": "xcf/油醋爆蛋.jpg",
+      "size": 303581,
+      "builtin": true
+    },
+    {
+      "path": "xcf/蒸箱鸡蛋羹.jpg",
+      "size": 107061,
+      "builtin": true
+    },
+    {
+      "path": "dishes/aquatic/小龙虾/成品.jpg",
+      "size": 562566
+    },
+    {
+      "path": "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.jpg",
+      "size": 92655
+    },
+    {
+      "path": "dishes/aquatic/油焖大虾/油焖大虾.jpg",
+      "size": 158684
+    },
+    {
+      "path": "dishes/aquatic/混合烤鱼/烤鱼.jpg",
+      "size": 187076
+    },
+    {
+      "path": "dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.jpg",
+      "size": 263862
+    },
+    {
+      "path": "dishes/aquatic/白灼虾/白灼虾.webp",
+      "size": 164196
+    },
+    {
+      "path": "dishes/aquatic/糖醋鲤鱼/成品.jpg",
+      "size": 196602
+    },
+    {
+      "path": "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.jpg",
+      "size": 333658
+    },
+    {
+      "path": "dishes/aquatic/葱油桂鱼/葱油桂鱼.jpg",
+      "size": 467681
+    },
+    {
+      "path": "dishes/aquatic/葱烧海参/葱烧海参.jpeg",
+      "size": 206611
+    },
+    {
+      "path": "dishes/aquatic/蒜蓉虾/1.jpeg",
+      "size": 184204
+    },
+    {
+      "path": "dishes/aquatic/蒜香黄油虾/1.jpg",
+      "size": 893586
+    },
+    {
+      "path": "dishes/aquatic/蛏抱蛋/1.jpeg",
+      "size": 155301
+    },
+    {
+      "path": "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.png",
+      "size": 980970
+    },
+    {
+      "path": "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.jpeg",
+      "size": 50316
+    },
+    {
+      "path": "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.jpeg",
+      "size": 238094
+    },
+    {
+      "path": "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.jpg",
+      "size": 455162
+    },
+    {
+      "path": "dishes/aquatic/黄油煎虾/黄油煎虾.jpg",
+      "size": 811157
+    },
+    {
+      "path": "dishes/breakfast/苏格兰蛋/egg1.png",
+      "size": 243472
+    },
+    {
+      "path": "dishes/condiment/油泼辣子/油泼辣子.jpg",
+      "size": 397052
+    },
+    {
+      "path": "dishes/condiment/草莓酱/做好的草莓酱.png",
+      "size": 337949
+    },
+    {
+      "path": "dishes/condiment/蔗糖糖浆/bottle.jpg",
+      "size": 54634
+    },
+    {
+      "path": "dishes/dessert/反沙芋头/反沙芋头成品.jpg",
+      "size": 339621
+    },
+    {
+      "path": "dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.png",
+      "size": 497427
+    },
+    {
+      "path": "dishes/dessert/戚风蛋糕/DSC08606.jpg",
+      "size": 557110
+    },
+    {
+      "path": "dishes/dessert/提拉米苏/提拉米苏成品.jpg",
+      "size": 469348
+    },
+    {
+      "path": "dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.jpg",
+      "size": 234668
+    },
+    {
+      "path": "dishes/dessert/炸鲜奶/炸鲜奶.jpg",
+      "size": 167715
+    },
+    {
+      "path": "dishes/dessert/烤箱版巴斯克芝士蛋糕/烤箱版巴斯克芝士蛋糕.jpg",
+      "size": 269121
+    },
+    {
+      "path": "dishes/dessert/烤蛋挞/烤蛋挞.png",
+      "size": 300259
+    },
+    {
+      "path": "dishes/dessert/玛格丽特饼干/玛格丽特饼干.jpg",
+      "size": 798541
+    },
+    {
+      "path": "dishes/dessert/芋泥雪媚娘/芋泥雪媚娘成品.jpg",
+      "size": 293906
+    },
+    {
+      "path": "dishes/dessert/英式司康/英式司康.png",
+      "size": 758411
+    },
+    {
+      "path": "dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.png",
+      "size": 630728
+    },
+    {
+      "path": "dishes/dessert/雪花酥/雪花酥成品.jpg",
+      "size": 844716
+    },
+    {
+      "path": "dishes/dessert/龟苓膏/龟苓膏成品.jpg",
+      "size": 11754
+    },
+    {
+      "path": "dishes/drink/冰粉/石凉粉(冰粉)成品1.jpg",
+      "size": 94427
+    },
+    {
+      "path": "dishes/drink/奇异果菠菜特调/kiwi-example.jpg",
+      "size": 600591
+    },
+    {
+      "path": "dishes/drink/柠檬水/柠檬水.jpg",
+      "size": 317111
+    },
+    {
+      "path": "dishes/drink/泰国手标红茶/泰国手标红茶.jpg",
+      "size": 74470
+    },
+    {
+      "path": "dishes/drink/海边落日/海边落日.jpg",
+      "size": 100230
+    },
+    {
+      "path": "dishes/drink/百香果橙子特调/soda-version.jpg",
+      "size": 105993
+    },
+    {
+      "path": "dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙-1.jpg",
+      "size": 307428
+    },
+    {
+      "path": "dishes/drink/耙耙柑茶/citrus-tea.jpg",
+      "size": 426359
+    },
+    {
+      "path": "dishes/drink/菠萝咖啡特调/菠萝咖啡特调.png",
+      "size": 479657
+    },
+    {
+      "path": "dishes/drink/酒酿醪糟/酒酿醪糟.jpeg",
+      "size": 249128
+    },
+    {
+      "path": "dishes/drink/金汤力/gin-tonic.jpg",
+      "size": 258312
+    },
+    {
+      "path": "dishes/drink/金菲士/gin-fizz.jpg",
+      "size": 250324
+    },
+    {
+      "path": "dishes/meat_dish/农家一碗香/农家一碗香成品.jpg",
+      "size": 28597
+    },
+    {
+      "path": "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉成品.jpg",
+      "size": 235266
+    },
+    {
+      "path": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.jpg",
+      "size": 222198
+    },
+    {
+      "path": "dishes/meat_dish/卤菜/卤水.jpeg",
+      "size": 771752
+    },
+    {
+      "path": "dishes/meat_dish/口水鸡/口水鸡.jpg",
+      "size": 228793
+    },
+    {
+      "path": "dishes/meat_dish/台式卤肉饭/1.jpg",
+      "size": 30221
+    },
+    {
+      "path": "dishes/meat_dish/咖喱肥牛/咖喱肥牛.jpg",
+      "size": 306536
+    },
+    {
+      "path": "dishes/meat_dish/啤酒鸭/啤酒鸭.jpg",
+      "size": 513313
+    },
+    {
+      "path": "dishes/meat_dish/回锅肉/1.jpeg",
+      "size": 156595
+    },
+    {
+      "path": "dishes/meat_dish/土豆炖排骨/排骨1.jpg",
+      "size": 111677
+    },
+    {
+      "path": "dishes/meat_dish/奶酪培根通心粉/onepot.png",
+      "size": 189250
+    },
+    {
+      "path": "dishes/meat_dish/姜炒鸡/姜炒鸡.jpg",
+      "size": 70533
+    },
+    {
+      "path": "dishes/meat_dish/宫保鸡丁/宫保鸡丁.jpg",
+      "size": 273993
+    },
+    {
+      "path": "dishes/meat_dish/小炒鸡肝/成品.jpg",
+      "size": 879941
+    },
+    {
+      "path": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.jpg",
+      "size": 257180
+    },
+    {
+      "path": "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.jpg",
+      "size": 47888
+    },
+    {
+      "path": "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.png",
+      "size": 222895
+    },
+    {
+      "path": "dishes/meat_dish/干煸仔鸡/干煸仔鸡成品.jpg",
+      "size": 803109
+    },
+    {
+      "path": "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.webp",
+      "size": 35284
+    },
+    {
+      "path": "dishes/meat_dish/徽派红烧肉/1.jpeg",
+      "size": 125686
+    },
+    {
+      "path": "dishes/meat_dish/新疆大盘鸡/大盘鸡.jpeg",
+      "size": 190378
+    },
+    {
+      "path": "dishes/meat_dish/无骨鸡爪/无骨鸡爪.jpg",
+      "size": 86781
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/柱候牛腩.jpeg",
+      "size": 819389
+    },
+    {
+      "path": "dishes/meat_dish/桂林十八酿/arch.png",
+      "size": 862875
+    },
+    {
+      "path": "dishes/meat_dish/梅菜扣肉/1.jpeg",
+      "size": 112389
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr1.jpg",
+      "size": 66372
+    },
+    {
+      "path": "dishes/meat_dish/淄博烧烤/淄博烧烤.jpg",
+      "size": 327489
+    },
+    {
+      "path": "dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼成品图.jpg",
+      "size": 241354
+    },
+    {
+      "path": "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.jpeg",
+      "size": 536072
+    },
+    {
+      "path": "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.jpg",
+      "size": 455420
+    },
+    {
+      "path": "dishes/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.jpg",
+      "size": 176584
+    },
+    {
+      "path": "dishes/meat_dish/牛排/牛排.jpg",
+      "size": 127330
+    },
+    {
+      "path": "dishes/meat_dish/猪皮冻/猪皮冻.jpg",
+      "size": 25083
+    },
+    {
+      "path": "dishes/meat_dish/田螺酿/成品.jpeg",
+      "size": 85047
+    },
+    {
+      "path": "dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.jpg",
+      "size": 254333
+    },
+    {
+      "path": "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/外焦里嫩的脆皮空气炸锅炸鸡.jpeg",
+      "size": 107879
+    },
+    {
+      "path": "dishes/meat_dish/糖醋排骨/1.jpeg",
+      "size": 88411
+    },
+    {
+      "path": "dishes/meat_dish/红烧猪蹄/红烧猪蹄.jpg",
+      "size": 261696
+    },
+    {
+      "path": "dishes/meat_dish/羊排焖面/羊排焖面.jpg",
+      "size": 550609
+    },
+    {
+      "path": "dishes/meat_dish/老妈蹄花/result1.jpg",
+      "size": 601320
+    },
+    {
+      "path": "dishes/meat_dish/老式锅包肉/老式锅包肉.jpg",
+      "size": 1035603
+    },
+    {
+      "path": "dishes/meat_dish/芥末罗氏虾/芥末罗氏虾成品.jpg",
+      "size": 436219
+    },
+    {
+      "path": "dishes/meat_dish/茭白炒肉/1.jpeg",
+      "size": 167692
+    },
+    {
+      "path": "dishes/meat_dish/荔枝肉/1.jpeg",
+      "size": 175852
+    },
+    {
+      "path": "dishes/meat_dish/荷兰豆炒腊肠/1.png",
+      "size": 233062
+    },
+    {
+      "path": "dishes/meat_dish/血浆鸭/血浆鸭(微辣).jpg",
+      "size": 236142
+    },
+    {
+      "path": "dishes/meat_dish/西红柿土豆炖牛肉/abaaba_1.png",
+      "size": 678484
+    },
+    {
+      "path": "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜成品.jpg",
+      "size": 482681
+    },
+    {
+      "path": "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.jpeg",
+      "size": 63117
+    },
+    {
+      "path": "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.jpg",
+      "size": 192203
+    },
+    {
+      "path": "dishes/meat_dish/酱排骨/1.jpeg",
+      "size": 155288
+    },
+    {
+      "path": "dishes/meat_dish/酱牛肉/酱牛肉.jpg",
+      "size": 138909
+    },
+    {
+      "path": "dishes/meat_dish/醉排骨/1.jpeg",
+      "size": 203763
+    },
+    {
+      "path": "dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.jpg",
+      "size": 851311
+    },
+    {
+      "path": "dishes/meat_dish/青椒酿/成品.jpeg",
+      "size": 69537
+    },
+    {
+      "path": "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.jpg",
+      "size": 643709
+    },
+    {
+      "path": "dishes/meat_dish/香煎五花肉/香煎五花肉.jpg",
+      "size": 191816
+    },
+    {
+      "path": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.jpg",
+      "size": 942353
+    },
+    {
+      "path": "dishes/meat_dish/香辣鸡爪煲/result1.jpg",
+      "size": 569564
+    },
+    {
+      "path": "dishes/meat_dish/鱼香茄子/yxqz1.jpg",
+      "size": 252183
+    },
+    {
+      "path": "dishes/meat_dish/麻婆豆腐/1.jpeg",
+      "size": 177651
+    },
+    {
+      "path": "dishes/meat_dish/黑椒牛柳/黑椒牛柳.jpg",
+      "size": 89269
+    },
+    {
+      "path": "dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.jpg",
+      "size": 327261
+    },
+    {
+      "path": "dishes/semi-finished/懒人蛋挞/懒人蛋挞.png",
+      "size": 659940
+    },
+    {
+      "path": "dishes/semi-finished/炸薯条/炸薯条.jpg",
+      "size": 391271
+    },
+    {
+      "path": "dishes/semi-finished/空气炸锅羊排/羊排.jpg",
+      "size": 568327
+    },
+    {
+      "path": "dishes/semi-finished/空气炸锅鸡翅中/鸡翅中_0.jpg",
+      "size": 545083
+    },
+    {
+      "path": "dishes/semi-finished/速冻汤圆/速冻汤圆.jpg",
+      "size": 490819
+    },
+    {
+      "path": "dishes/soup/勾芡香菇汤/1.jpeg",
+      "size": 111653
+    },
+    {
+      "path": "dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤01.jpg",
+      "size": 282973
+    },
+    {
+      "path": "dishes/soup/朱雀汤/朱雀汤.jpg",
+      "size": 319626
+    },
+    {
+      "path": "dishes/soup/玉米排骨汤/玉米排骨汤.jpeg",
+      "size": 316330
+    },
+    {
+      "path": "dishes/soup/羊肉汤/羊肉汤.jpg",
+      "size": 180904
+    },
+    {
+      "path": "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.jpg",
+      "size": 170623
+    },
+    {
+      "path": "dishes/soup/银耳莲子粥/银耳莲子粥.png",
+      "size": 50218
+    },
+    {
+      "path": "dishes/soup/陈皮排骨汤/陈皮排骨汤.jpg",
+      "size": 257484
+    },
+    {
+      "path": "dishes/staple/凉粉/lf1.jpg",
+      "size": 129562
+    },
+    {
+      "path": "dishes/staple/基础牛奶面包/1-1成品.jpg",
+      "size": 41865
+    },
+    {
+      "path": "dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.png",
+      "size": 524335
+    },
+    {
+      "path": "dishes/staple/意式肉酱面/final.jpg",
+      "size": 168916
+    },
+    {
+      "path": "dishes/staple/扬州炒饭/veg.png",
+      "size": 567767
+    },
+    {
+      "path": "dishes/staple/披萨饼皮/001.jpeg",
+      "size": 298265
+    },
+    {
+      "path": "dishes/staple/日式咖喱饭/成品.jpg",
+      "size": 152896
+    },
+    {
+      "path": "dishes/staple/日式肥牛丼饭/成品.png",
+      "size": 768884
+    },
+    {
+      "path": "dishes/staple/河南蒸面条/河南蒸面条.png",
+      "size": 876711
+    },
+    {
+      "path": "dishes/staple/火腿饭团/饭团.png",
+      "size": 672534
+    },
+    {
+      "path": "dishes/staple/炒凉粉/炒凉粉成品.jpg",
+      "size": 567744
+    },
+    {
+      "path": "dishes/staple/炒意大利面/a.jpg",
+      "size": 197054
+    },
+    {
+      "path": "dishes/staple/炒方便面/炒方便面.png",
+      "size": 382486
+    },
+    {
+      "path": "dishes/staple/烙饼/成品.jpg",
+      "size": 144872
+    },
+    {
+      "path": "dishes/staple/烧饼/芝麻烧饼.jpg",
+      "size": 105129
+    },
+    {
+      "path": "dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.webp",
+      "size": 81664
+    },
+    {
+      "path": "dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.jpg",
+      "size": 451342
+    },
+    {
+      "path": "dishes/staple/老友猪肉粉/老友猪肉粉.jpg",
+      "size": 482340
+    },
+    {
+      "path": "dishes/staple/茄子肉煎饼/茄子肉煎饼.jpg",
+      "size": 848999
+    },
+    {
+      "path": "dishes/staple/西红柿鸡蛋挂面/food.jpg",
+      "size": 139657
+    },
+    {
+      "path": "dishes/staple/酱拌荞麦面/1.jpeg",
+      "size": 190513
+    },
+    {
+      "path": "dishes/staple/陕西油泼面/成品.png",
+      "size": 181027
+    },
+    {
+      "path": "dishes/staple/韩式拌饭/韩式拌饭.png",
+      "size": 241981
+    },
+    {
+      "path": "dishes/staple/鲣鱼海苔玉米饭/米饭.jpg",
+      "size": 419183
+    },
+    {
+      "path": "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.png",
+      "size": 130842
+    },
+    {
+      "path": "dishes/vegetable_dish/乾隆白菜/乾隆白菜.jpg",
+      "size": 1029367
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌木耳/1.jpg",
+      "size": 205351
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌莴笋/1.jpeg",
+      "size": 146717
+    },
+    {
+      "path": "dishes/vegetable_dish/包菜炒鸡蛋粉丝/1.jpg",
+      "size": 569608
+    },
+    {
+      "path": "dishes/vegetable_dish/地三鲜/地三鲜.jpg",
+      "size": 83668
+    },
+    {
+      "path": "dishes/vegetable_dish/小炒藕丁/小炒藕丁.jpg",
+      "size": 142291
+    },
+    {
+      "path": "dishes/vegetable_dish/干锅花菜/干锅花菜.jpg",
+      "size": 593802
+    },
+    {
+      "path": "dishes/vegetable_dish/手撕包菜/1.jpeg",
+      "size": 127488
+    },
+    {
+      "path": "dishes/vegetable_dish/拔丝土豆/1.jpeg",
+      "size": 220129
+    },
+    {
+      "path": "dishes/vegetable_dish/椒盐玉米/椒盐玉米.jpeg",
+      "size": 173857
+    },
+    {
+      "path": "dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.JPG",
+      "size": 389996
+    },
+    {
+      "path": "dishes/vegetable_dish/洋葱炒鸡蛋/1.jpeg",
+      "size": 144620
+    },
+    {
+      "path": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.jpg",
+      "size": 121836
+    },
+    {
+      "path": "dishes/vegetable_dish/烤茄子/烤茄子.jpg",
+      "size": 812441
+    },
+    {
+      "path": "dishes/vegetable_dish/白灼菜心/白灼菜心.jpg",
+      "size": 36300
+    },
+    {
+      "path": "dishes/vegetable_dish/糖拌西红柿/火山飘雪.jpg",
+      "size": 55379
+    },
+    {
+      "path": "dishes/vegetable_dish/红烧冬瓜/1.jpeg",
+      "size": 86396
+    },
+    {
+      "path": "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.jpg",
+      "size": 553839
+    },
+    {
+      "path": "dishes/vegetable_dish/莴笋叶煎饼/1.jpeg",
+      "size": 234352
+    },
+    {
+      "path": "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.jpg",
+      "size": 355731
+    },
+    {
+      "path": "dishes/vegetable_dish/蒜蓉炒芹菜/蒜蓉炒芹菜.jpg",
+      "size": 106394
+    },
+    {
+      "path": "dishes/vegetable_dish/蒜蓉空心菜/1.JPG",
+      "size": 291549
+    },
+    {
+      "path": "dishes/vegetable_dish/虎皮青椒/虎皮青椒.jpg",
+      "size": 1022689
+    },
+    {
+      "path": "dishes/vegetable_dish/蚝油三鲜菇/1.jpeg",
+      "size": 148582
+    },
+    {
+      "path": "dishes/vegetable_dish/西红柿豆腐汤羹/1.jpeg",
+      "size": 105667
+    },
+    {
+      "path": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.jpeg",
+      "size": 46138
+    },
+    {
+      "path": "dishes/vegetable_dish/话梅煮毛豆/1.jpeg",
+      "size": 154361
+    },
+    {
+      "path": "dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.jpg",
+      "size": 326920
+    },
+    {
+      "path": "dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.jpg",
+      "size": 218388
+    }
+  ],
+  "optional": [
+    {
+      "path": "dishes/aquatic/清蒸鲈鱼/摆盘.jpg",
+      "size": 340422
+    },
+    {
+      "path": "dishes/aquatic/清蒸鲈鱼/改刀.jpg",
+      "size": 359597
+    },
+    {
+      "path": "dishes/aquatic/糖醋鲤鱼/腌制.jpg",
+      "size": 177914
+    },
+    {
+      "path": "dishes/aquatic/葱油桂鱼/10.jpg",
+      "size": 274902
+    },
+    {
+      "path": "dishes/aquatic/葱油桂鱼/葱油鲈鱼.jpg",
+      "size": 689071
+    },
+    {
+      "path": "dishes/aquatic/葱烧海参/海参.jpeg",
+      "size": 182359
+    },
+    {
+      "path": "dishes/aquatic/葱烧海参/葱白.jpeg",
+      "size": 219213
+    },
+    {
+      "path": "dishes/aquatic/葱烧海参/酱汁.jpeg",
+      "size": 86402
+    },
+    {
+      "path": "dishes/aquatic/蒜蓉虾/2.jpeg",
+      "size": 154644
+    },
+    {
+      "path": "dishes/aquatic/蛏抱蛋/2.jpeg",
+      "size": 160679
+    },
+    {
+      "path": "dishes/aquatic/蛏抱蛋/3.jpeg",
+      "size": 183338
+    },
+    {
+      "path": "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼参考.jpg",
+      "size": 127148
+    },
+    {
+      "path": "dishes/breakfast/苏格兰蛋/egg2.png",
+      "size": 755549
+    },
+    {
+      "path": "dishes/breakfast/苏格兰蛋/egg3.png",
+      "size": 859558
+    },
+    {
+      "path": "dishes/condiment/油泼辣子/口水鸡+油泼辣子.jpg",
+      "size": 328386
+    },
+    {
+      "path": "dishes/condiment/草莓酱/洗好的草莓.jpeg",
+      "size": 99676
+    },
+    {
+      "path": "dishes/condiment/草莓酱/混合好的草莓.jpeg",
+      "size": 68587
+    },
+    {
+      "path": "dishes/condiment/草莓酱/熬煮的草莓.jpeg",
+      "size": 43124
+    },
+    {
+      "path": "dishes/dessert/戚风蛋糕/DSC08608.jpg",
+      "size": 585890
+    },
+    {
+      "path": "dishes/dessert/戚风蛋糕/DSC08612.jpg",
+      "size": 528341
+    },
+    {
+      "path": "dishes/dessert/戚风蛋糕/DSC08618.jpg",
+      "size": 462716
+    },
+    {
+      "path": "dishes/dessert/戚风蛋糕/DSC08621.jpg",
+      "size": 531964
+    },
+    {
+      "path": "dishes/dessert/戚风蛋糕/DSC08627.jpg",
+      "size": 546271
+    },
+    {
+      "path": "dishes/dessert/戚风蛋糕/DSC08716.jpg",
+      "size": 996109
+    },
+    {
+      "path": "dishes/dessert/戚风蛋糕/IMG_0269.jpg",
+      "size": 163597
+    },
+    {
+      "path": "dishes/dessert/戚风蛋糕/IMG_1516.jpg",
+      "size": 375856
+    },
+    {
+      "path": "dishes/drink/冰粉/石凉粉(冰粉)成品2.jpg",
+      "size": 761836
+    },
+    {
+      "path": "dishes/drink/百香果橙子特调/tea-version.jpg",
+      "size": 384028
+    },
+    {
+      "path": "dishes/drink/酒酿醪糟/酒酿米糕.jpeg",
+      "size": 234830
+    },
+    {
+      "path": "dishes/drink/酸梅汤/imges/sour_plum_soup.jpg",
+      "size": 416498
+    },
+    {
+      "path": "dishes/meat_dish/冬瓜酿肉/冬瓜形状.jpg",
+      "size": 193484
+    },
+    {
+      "path": "dishes/meat_dish/冬瓜酿肉/卷肉.jpg",
+      "size": 142445
+    },
+    {
+      "path": "dishes/meat_dish/冬瓜酿肉/打鸡蛋.jpg",
+      "size": 191148
+    },
+    {
+      "path": "dishes/meat_dish/冬瓜酿肉/摆盘.jpg",
+      "size": 169394
+    },
+    {
+      "path": "dishes/meat_dish/冬瓜酿肉/腌制好的冬瓜.jpg",
+      "size": 112631
+    },
+    {
+      "path": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝_撕.jpg",
+      "size": 215039
+    },
+    {
+      "path": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝_焯水.jpg",
+      "size": 191551
+    },
+    {
+      "path": "dishes/meat_dish/卤菜/卤牛肉.jpeg",
+      "size": 571100
+    },
+    {
+      "path": "dishes/meat_dish/卤菜/牛肉面.jpeg",
+      "size": 721513
+    },
+    {
+      "path": "dishes/meat_dish/回锅肉/2.jpeg",
+      "size": 172039
+    },
+    {
+      "path": "dishes/meat_dish/土豆炖排骨/排骨2.jpg",
+      "size": 107934
+    },
+    {
+      "path": "dishes/meat_dish/奶酪培根通心粉/oven.jpg",
+      "size": 42358
+    },
+    {
+      "path": "dishes/meat_dish/巴基斯坦牛肉咖喱/倒入番茄蓉.png",
+      "size": 288928
+    },
+    {
+      "path": "dishes/meat_dish/巴基斯坦牛肉咖喱/油.png",
+      "size": 337608
+    },
+    {
+      "path": "dishes/meat_dish/巴基斯坦牛肉咖喱/牛肉.png",
+      "size": 210428
+    },
+    {
+      "path": "dishes/meat_dish/巴基斯坦牛肉咖喱/番茄蓉.png",
+      "size": 133202
+    },
+    {
+      "path": "dishes/meat_dish/巴基斯坦牛肉咖喱/红.png",
+      "size": 548188
+    },
+    {
+      "path": "dishes/meat_dish/徽派红烧肉/2.jpeg",
+      "size": 154580
+    },
+    {
+      "path": "dishes/meat_dish/新疆大盘鸡/大盘鸡皮带面.jpeg",
+      "size": 215170
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/土豆切片.jpeg",
+      "size": 598684
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/柱候牛腩配米饭.jpeg",
+      "size": 867447
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/牛腩入锅.jpeg",
+      "size": 727213
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/牛腩切块.jpeg",
+      "size": 946279
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/牛腩此时可开始炖煮.jpeg",
+      "size": 774375
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/牛腩焯水.jpeg",
+      "size": 841970
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/牛腩部位.jpeg",
+      "size": 792433
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/碗1.jpeg",
+      "size": 541801
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/碗2.jpeg",
+      "size": 667246
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/碗3.jpeg",
+      "size": 734562
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/碗4.jpeg",
+      "size": 664006
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/碗5.jpeg",
+      "size": 727384
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/碗6.jpeg",
+      "size": 640764
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/碗7.jpeg",
+      "size": 937419
+    },
+    {
+      "path": "dishes/meat_dish/柱候牛腩/过滤汤汁.jpeg",
+      "size": 346329
+    },
+    {
+      "path": "dishes/meat_dish/桂林十八酿/南瓜花酿.png",
+      "size": 721640
+    },
+    {
+      "path": "dishes/meat_dish/桂林十八酿/油豆腐酿.png",
+      "size": 678780
+    },
+    {
+      "path": "dishes/meat_dish/桂林十八酿/竹笋酿.png",
+      "size": 603943
+    },
+    {
+      "path": "dishes/meat_dish/桂林十八酿/苦瓜酿.png",
+      "size": 764382
+    },
+    {
+      "path": "dishes/meat_dish/桂林十八酿/茄子酿.png",
+      "size": 644820
+    },
+    {
+      "path": "dishes/meat_dish/梅菜扣肉/2.jpeg",
+      "size": 169442
+    },
+    {
+      "path": "dishes/meat_dish/梅菜扣肉/3.jpeg",
+      "size": 104466
+    },
+    {
+      "path": "dishes/meat_dish/梅菜扣肉/4.jpeg",
+      "size": 150169
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr10.jpg",
+      "size": 82222
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr11.jpg",
+      "size": 41846
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr12.jpg",
+      "size": 47311
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr2.jpg",
+      "size": 72110
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr3.jpg",
+      "size": 80597
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr4.jpg",
+      "size": 70001
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr5.jpg",
+      "size": 64949
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr6.jpg",
+      "size": 99883
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr7.jpg",
+      "size": 58302
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr8.jpg",
+      "size": 75042
+    },
+    {
+      "path": "dishes/meat_dish/水煮牛肉/sznr9.jpg",
+      "size": 89704
+    },
+    {
+      "path": "dishes/meat_dish/湘祁米夫鸭/step①：准备米粉.jpg",
+      "size": 293632
+    },
+    {
+      "path": "dishes/meat_dish/湘祁米夫鸭/step②：煸炒鸭子.jpg",
+      "size": 198874
+    },
+    {
+      "path": "dishes/meat_dish/湘祁米夫鸭/step③：米粉裹鸭.jpg",
+      "size": 284673
+    },
+    {
+      "path": "dishes/meat_dish/湘祁米夫鸭/step④：高压锅蒸煮.jpg",
+      "size": 210826
+    },
+    {
+      "path": "dishes/meat_dish/田螺酿/成品2.png",
+      "size": 772340
+    },
+    {
+      "path": "dishes/meat_dish/田螺酿/田螺.png",
+      "size": 779614
+    },
+    {
+      "path": "dishes/meat_dish/田螺酿/紫苏叶.png",
+      "size": 567745
+    },
+    {
+      "path": "dishes/meat_dish/田螺酿/薄荷叶.png",
+      "size": 430907
+    },
+    {
+      "path": "dishes/meat_dish/糖醋排骨/2.jpeg",
+      "size": 202934
+    },
+    {
+      "path": "dishes/meat_dish/红烧肉/000.jpg",
+      "size": 366456
+    },
+    {
+      "path": "dishes/meat_dish/红烧肉/001.jpg",
+      "size": 272650
+    },
+    {
+      "path": "dishes/meat_dish/老妈蹄花/result2.jpg",
+      "size": 950451
+    },
+    {
+      "path": "dishes/meat_dish/老妈蹄花/result3.jpg",
+      "size": 612599
+    },
+    {
+      "path": "dishes/meat_dish/茭白炒肉/2.jpeg",
+      "size": 153234
+    },
+    {
+      "path": "dishes/meat_dish/荔枝肉/2.jpeg",
+      "size": 137791
+    },
+    {
+      "path": "dishes/meat_dish/荔枝肉/3.jpeg",
+      "size": 184261
+    },
+    {
+      "path": "dishes/meat_dish/荔枝肉/4.jpeg",
+      "size": 175823
+    },
+    {
+      "path": "dishes/meat_dish/荔枝肉/5.jpeg",
+      "size": 146027
+    },
+    {
+      "path": "dishes/meat_dish/荔枝肉/6.jpeg",
+      "size": 192385
+    },
+    {
+      "path": "dishes/meat_dish/荔枝肉/7.jpeg",
+      "size": 181448
+    },
+    {
+      "path": "dishes/meat_dish/荷兰豆炒腊肠/2.png",
+      "size": 246925
+    },
+    {
+      "path": "dishes/meat_dish/血浆鸭/血浆鸭(特辣).jpg",
+      "size": 403802
+    },
+    {
+      "path": "dishes/meat_dish/酱排骨/2.jpeg",
+      "size": 130831
+    },
+    {
+      "path": "dishes/meat_dish/青椒酿/煎至虎皮状.jpeg",
+      "size": 92971
+    },
+    {
+      "path": "dishes/meat_dish/青椒酿/虾滑青椒酿.jpeg",
+      "size": 64951
+    },
+    {
+      "path": "dishes/meat_dish/香辣鸡爪煲/result2.jpg",
+      "size": 903208
+    },
+    {
+      "path": "dishes/meat_dish/鱼香茄子/yxqz2.jpg",
+      "size": 97239
+    },
+    {
+      "path": "dishes/meat_dish/鱼香茄子/yxqz3.jpg",
+      "size": 148496
+    },
+    {
+      "path": "dishes/meat_dish/鱼香茄子/yxqz4.jpg",
+      "size": 119691
+    },
+    {
+      "path": "dishes/meat_dish/鱼香茄子/yxqz5.jpg",
+      "size": 120291
+    },
+    {
+      "path": "dishes/meat_dish/鱼香茄子/yxqz6.jpg",
+      "size": 168925
+    },
+    {
+      "path": "dishes/meat_dish/鱼香茄子/yxqz7.jpg",
+      "size": 169683
+    },
+    {
+      "path": "dishes/semi-finished/空气炸锅鸡翅中/鸡翅中_1.jpg",
+      "size": 551315
+    },
+    {
+      "path": "dishes/soup/勾芡香菇汤/2.jpeg",
+      "size": 93096
+    },
+    {
+      "path": "dishes/soup/勾芡香菇汤/3.jpeg",
+      "size": 156342
+    },
+    {
+      "path": "dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤02.jpg",
+      "size": 258482
+    },
+    {
+      "path": "dishes/soup/昂刺鱼豆腐汤/沙光鱼豆腐汤.jpg",
+      "size": 176307
+    },
+    {
+      "path": "dishes/staple/凉粉/lf10.jpg",
+      "size": 87453
+    },
+    {
+      "path": "dishes/staple/凉粉/lf11.jpg",
+      "size": 73272
+    },
+    {
+      "path": "dishes/staple/凉粉/lf2.jpg",
+      "size": 69094
+    },
+    {
+      "path": "dishes/staple/凉粉/lf3.jpg",
+      "size": 73385
+    },
+    {
+      "path": "dishes/staple/凉粉/lf4.jpg",
+      "size": 57536
+    },
+    {
+      "path": "dishes/staple/凉粉/lf5.jpg",
+      "size": 65076
+    },
+    {
+      "path": "dishes/staple/凉粉/lf6.jpg",
+      "size": 64287
+    },
+    {
+      "path": "dishes/staple/凉粉/lf7.jpg",
+      "size": 49289
+    },
+    {
+      "path": "dishes/staple/凉粉/lf8.jpg",
+      "size": 60950
+    },
+    {
+      "path": "dishes/staple/凉粉/lf9.jpg",
+      "size": 89763
+    },
+    {
+      "path": "dishes/staple/基础牛奶面包/2-1设备简介1.jpg",
+      "size": 372430
+    },
+    {
+      "path": "dishes/staple/基础牛奶面包/2-2设备简介2.jpg",
+      "size": 338124
+    },
+    {
+      "path": "dishes/staple/基础牛奶面包/4-1酵头1.jpg",
+      "size": 25710
+    },
+    {
+      "path": "dishes/staple/基础牛奶面包/4-2酵头2.jpg",
+      "size": 81943
+    },
+    {
+      "path": "dishes/staple/基础牛奶面包/4-3酵头3.jpg",
+      "size": 40494
+    },
+    {
+      "path": "dishes/staple/基础牛奶面包/4-4此时的面团.jpg",
+      "size": 40123
+    },
+    {
+      "path": "dishes/staple/基础牛奶面包/4-5转移到容器内.jpg",
+      "size": 31905
+    },
+    {
+      "path": "dishes/staple/基础牛奶面包/4-6成品面包.jpg",
+      "size": 42794
+    },
+    {
+      "path": "dishes/staple/基础牛奶面包/5-1成品.jpg",
+      "size": 33865
+    },
+    {
+      "path": "dishes/staple/意式肉酱面/sauce.jpg",
+      "size": 102009
+    },
+    {
+      "path": "dishes/staple/意式肉酱面/spaghetti.jpg",
+      "size": 169125
+    },
+    {
+      "path": "dishes/staple/炒凉粉/chaoliangfen.jpg",
+      "size": 567744
+    },
+    {
+      "path": "dishes/staple/米饭/rice_regularPot.jpeg",
+      "size": 138421
+    },
+    {
+      "path": "dishes/staple/茄子肉煎饼/1茄片肉片.jpg",
+      "size": 600178
+    },
+    {
+      "path": "dishes/staple/茄子肉煎饼/2米粉250g.jpg",
+      "size": 537767
+    },
+    {
+      "path": "dishes/staple/茄子肉煎饼/3米粉面粉鸡蛋.jpg",
+      "size": 725103
+    },
+    {
+      "path": "dishes/staple/茄子肉煎饼/4混合.jpg",
+      "size": 577383
+    },
+    {
+      "path": "dishes/staple/茄子肉煎饼/5起锅烧油.jpg",
+      "size": 776917
+    },
+    {
+      "path": "dishes/staple/茄子肉煎饼/6开始煎.jpg",
+      "size": 778712
+    },
+    {
+      "path": "dishes/staple/茄子肉煎饼/7撒盐准备起锅.jpg",
+      "size": 842831
+    },
+    {
+      "path": "dishes/staple/西红柿鸡蛋挂面/fryEgg.jpg",
+      "size": 26908
+    },
+    {
+      "path": "dishes/staple/西红柿鸡蛋挂面/pretreatFood.jpg",
+      "size": 189603
+    },
+    {
+      "path": "dishes/staple/西红柿鸡蛋挂面/tomato.jpg",
+      "size": 151487
+    },
+    {
+      "path": "dishes/staple/西红柿鸡蛋挂面/tomatoNoodle.jpg",
+      "size": 138030
+    },
+    {
+      "path": "dishes/staple/酱拌荞麦面/2.jpeg",
+      "size": 198901
+    },
+    {
+      "path": "dishes/staple/陕西油泼面/chemian.png",
+      "size": 128641
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌木耳/10.jpg",
+      "size": 360952
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌木耳/2.jpg",
+      "size": 306422
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌木耳/3.jpg",
+      "size": 285668
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌木耳/4.jpg",
+      "size": 162922
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌木耳/5.jpg",
+      "size": 227149
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌木耳/6.jpg",
+      "size": 128349
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌木耳/7.jpg",
+      "size": 171107
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌木耳/8.jpg",
+      "size": 294458
+    },
+    {
+      "path": "dishes/vegetable_dish/凉拌木耳/9.jpg",
+      "size": 295821
+    },
+    {
+      "path": "dishes/vegetable_dish/手撕包菜/2.jpeg",
+      "size": 151293
+    },
+    {
+      "path": "dishes/vegetable_dish/手撕包菜/3.jpeg",
+      "size": 111973
+    },
+    {
+      "path": "dishes/vegetable_dish/手撕包菜/4.jpeg",
+      "size": 138914
+    },
+    {
+      "path": "dishes/vegetable_dish/拔丝土豆/2.jpeg",
+      "size": 187193
+    },
+    {
+      "path": "dishes/vegetable_dish/拔丝土豆/3.jpeg",
+      "size": 356894
+    },
+    {
+      "path": "dishes/vegetable_dish/拔丝土豆/4.jpeg",
+      "size": 174170
+    },
+    {
+      "path": "dishes/vegetable_dish/红烧冬瓜/2.jpeg",
+      "size": 104810
+    },
+    {
+      "path": "dishes/vegetable_dish/芹菜拌茶树菇/闽星茶树菇.jpg",
+      "size": 143519
+    },
+    {
+      "path": "dishes/vegetable_dish/莴笋叶煎饼/2.jpeg",
+      "size": 281002
+    },
+    {
+      "path": "dishes/vegetable_dish/莴笋叶煎饼/3.jpeg",
+      "size": 217623
+    },
+    {
+      "path": "dishes/vegetable_dish/蚝油三鲜菇/2.jpeg",
+      "size": 154747
+    }
+  ]
+}

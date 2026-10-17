@@ -1,0 +1,160 @@
+{
+  "id": "肉菜/鱼香肉丝",
+  "md": "dishes/meat_dish/鱼香肉丝.md",
+  "name": "鱼香肉丝",
+  "category": "meat_dish",
+  "categoryName": "肉菜",
+  "difficulty": 4,
+  "calories": 421,
+  "time": "40分钟",
+  "desc": "鱼香肉丝是一道经典川菜，口味酸甜微辣，肉丝滑嫩，配以胡萝卜、青椒和木耳，口感丰富。富含蛋白质和多种维生素，荤素搭配，营养均衡。制作有一定难度，需要调好鱼香汁并掌握翻炒火候，新手建议严格按步骤操作。预计制作时长约 40 分钟（不含木耳泡发时间）。",
+  "ingredients": [
+    "里脊肉 200g",
+    "胡萝卜 100g",
+    "青椒 100g",
+    "木耳（干） 5g",
+    "生抽 10ml",
+    "料酒 5ml",
+    "蛋清 1 个",
+    "淀粉 10g",
+    "醋 15ml",
+    "白糖 10g",
+    "盐 5g",
+    "姜 20g",
+    "葱 20g",
+    "蒜 2 瓣",
+    "豆瓣酱 15g"
+  ],
+  "steps": [
+    {
+      "title": "制作腌料和香碗汁",
+      "items": [
+        {
+          "sub": false,
+          "text": "制作腌料：将下列原料混合："
+        },
+        {
+          "sub": true,
+          "text": "生抽 5ml"
+        },
+        {
+          "sub": true,
+          "text": "料酒 5ml"
+        },
+        {
+          "sub": true,
+          "text": "淀粉 5g"
+        },
+        {
+          "sub": true,
+          "text": "水 20ml"
+        },
+        {
+          "sub": true,
+          "text": "蛋清 1 个"
+        },
+        {
+          "sub": false,
+          "text": "制作香汁：将下列原料混合："
+        },
+        {
+          "sub": true,
+          "text": "生抽 5ml"
+        },
+        {
+          "sub": true,
+          "text": "醋 15ml"
+        },
+        {
+          "sub": true,
+          "text": "白糖 10 克"
+        },
+        {
+          "sub": true,
+          "text": "盐 1 克"
+        },
+        {
+          "sub": true,
+          "text": "淀粉 5g"
+        },
+        {
+          "sub": true,
+          "text": "水 20ml"
+        }
+      ]
+    },
+    {
+      "title": "处理原料",
+      "items": [
+        {
+          "sub": false,
+          "text": "用腌料腌制里脊肉 15-30 分钟。注意将肉抓匀。"
+        },
+        {
+          "sub": false,
+          "text": "干木耳泡 4 个小时，洗净，切成小块。"
+        },
+        {
+          "sub": false,
+          "text": "青椒洗净，去蒂，切成丝。"
+        },
+        {
+          "sub": false,
+          "text": "胡萝卜洗净，切成丝，将胡萝卜丝[焯水](../../tips/learn/学习焯水.md)。"
+        },
+        {
+          "sub": false,
+          "text": "姜、蒜切沫。"
+        },
+        {
+          "sub": false,
+          "text": "葱切成 5mm 的小段。"
+        }
+      ]
+    },
+    {
+      "title": "炒熟各种材料",
+      "items": [
+        {
+          "sub": false,
+          "text": "将锅烧热，加入 15ml 油。"
+        },
+        {
+          "sub": false,
+          "text": "向锅内倒入准备好的腌肉，快速滑散至变白，盛出备用。"
+        },
+        {
+          "sub": false,
+          "text": "将锅烧热，加入 5ml 油。"
+        },
+        {
+          "sub": false,
+          "text": "倒入全部葱、姜、蒜、豆瓣酱。"
+        },
+        {
+          "sub": false,
+          "text": "倒入全部胡萝卜，翻炒 20s 后，放入青椒和木耳，翻炒 2 分钟。"
+        },
+        {
+          "sub": false,
+          "text": "倒入炒过的肉。快速翻炒均匀。注意不要炒超过 20 秒。"
+        },
+        {
+          "sub": false,
+          "text": "倒入香汁。快速翻炒均匀。注意不要炒超过 15 秒。"
+        },
+        {
+          "sub": false,
+          "text": "关火，盛盘。"
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "video": null,
+  "image": "xcf/鱼香肉丝.jpg",
+  "calc": [
+    "注意，这道菜仅有足够 1-2 人食用的版本。"
+  ],
+  "imageSource": "network"
+}

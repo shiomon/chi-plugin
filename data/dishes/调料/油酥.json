@@ -1,0 +1,44 @@
+{
+  "id": "调料/油酥",
+  "md": "dishes/condiment/油酥.md",
+  "name": "油酥",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 2,
+  "calories": 111,
+  "time": "3分钟",
+  "desc": "这是一道中式面点配料，常用于烙饼，能让成品层次分明、外酥里软。主要提供碳水化合物和脂肪，为身体补充能量。做法十分简单，新手友好，预计只需 3 分钟就能调好。",
+  "ingredients": [
+    "面粉",
+    "油",
+    "盐"
+  ],
+  "steps": [
+    {
+      "title": null,
+      "items": [
+        {
+          "sub": false,
+          "text": "面粉盛小碗里，加入盐"
+        },
+        {
+          "sub": false,
+          "text": "加入 200 度的热油"
+        },
+        {
+          "sub": false,
+          "text": "用筷子将其搅拌成无固状物体的糊状。"
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "video": null,
+  "image": "xcf/油酥.jpg",
+  "calc": [
+    "油 = （要烙饼的张数  10ml）",
+    "盐 = （要烙饼的张数 / 2）g",
+    "面粉 = （要烙饼的张数 / 0.13）g"
+  ],
+  "imageSource": "network"
+}
