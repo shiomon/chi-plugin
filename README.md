@@ -1,26 +1,21 @@
-# 🍽️ 吃什么插件（chi-plugin）
+# 🍽️ 吃什么插件 chi-plugin
 
-TRSS-Yunzai 随机菜谱插件，兼容 QQBot / OneBotv11 等适配器。内置 **370 道菜谱、10 个分类、370 张成菜图**，运行期零联网；菜谱内容取自 [HowToCook](https://github.com/Anduin2017/HowToCook)。
+TRSS-Yunzai 随机菜谱插件，兼容 QQBot / OneBotv11 等适配器。内置 **370 道菜谱、10 个分类、370 张成菜图**，菜谱/菜图内容取自 [HowToCook](https://github.com/Anduin2017/HowToCook),[下厨房](https://www.xiachufang.com/)。
 
-## ✨ 功能
-
-- 随机推荐一道菜：成菜图 + 分类 + 一句话简介
-- 按分类随机、按菜名精确/模糊查询
-- 做法长图：食材、步骤、小贴士渲染成一张图
-- B 站视频搜索（QQBot 为链接按钮，其他适配器为纯文本链接）
-- QQBot 按钮交互；非 QQBot 适配器自动降级为文字指令提示
-- 管理员：官网同步（预演/写入）、清理不符合菜、手动补图
 
 ## 📦 安装
-
+崽根目录
 ```bash
 cd Yunzai
-git clone https://github.com/shiomon/chi-plugin.git plugins/chi-plugin
 ```
-
-安装后在 `config/config/bot.yaml` 的 `plugins` 中确认插件已启用，重启 Yunzai 即可。
-
-**无第三方 npm 依赖**：只使用 Yunzai 自带的 `lib/plugins/plugin.js`、`lib/puppeteer/puppeteer.js` 与 Node 内置模块。
+国内坏境
+```bash
+git clone --depth=1 https://ghfast.top/https://github.com/shiomon/chi-plugin.git plugins/chi-plugin
+```
+国外环境
+```bash
+git clone --depth=1 https://github.com/shiomon/chi-plugin.git plugins/chi-plugin
+```
 
 ## 📋 指令
 
@@ -55,18 +50,6 @@ git clone https://github.com/shiomon/chi-plugin.git plugins/chi-plugin
 
 按钮仅 QQBot 适配器可见；其他适配器改为在消息末尾附带可用指令提示。
 
-## ⚙️ 可配置项
-
-集中在 `index.js` 顶部：
-
-| 常量 | 默认值 | 说明 |
-| --- | --- | --- |
-| `AUTO_SYNC` | `false` | 运行期是否自动联网同步菜图；默认关闭，联网同步改走「吃什么 同步」 |
-| `SYNC_START_DELAY` | `5000` | 开启自动同步后，插件加载多久开始同步（毫秒） |
-| `MAX_TEXT` | `1600` | 单条文本上限，超出截断 |
-| `DESC_MAX` | `120` | 简介无句号时的兜底截断长度 |
-| `OPENERS` | 6 个词 | 随机开场词 |
-| `CMD_REG` | 「吃什么 / 今天吃什么」 | 主指令正则 |
 
 ## 🗂️ 项目结构
 
@@ -102,13 +85,3 @@ chi-plugin/
 - 写入前备份 `data/dishes.json.bak`，随后重建 `data/index.json` 与 `data/dishes/`
 - 图片按 `data/images.json` 清单落盘到 `resources/image`，缺失图不影响文字推荐（消息中会提示管理员补齐）
 - 数据恢复步骤见 `data/恢复说明.txt`
-
-## ⚠️ 注意事项
-
-- 做法长图与帮助图依赖 Yunzai 的 puppeteer 截图；渲染失败时帮助会自动降级为纯文本，做法图会提示稍后重试
-- 菜图为本地文件，首次部署请确保 `resources/image` 完整（约 79MB）
-- `data/` 属插件内容（非用户数据），随仓库分发
-
-## 📄 许可
-
-菜谱文字与图片版权归 HowToCook 项目及其贡献者（MIT）；插件代码许可见仓库 LICENSE（如有）。
