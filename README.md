@@ -2,6 +2,11 @@
 
 TRSS-Yunzai 随机菜谱插件，兼容 QQBot / OneBotv11 等适配器。内置 **370 道菜谱、10 个分类、370 张成菜图**，菜谱/菜图内容取自 [HowToCook](https://github.com/Anduin2017/HowToCook),[下厨房](https://www.xiachufang.com/)。
 
+<img width="640" height="808" alt="7ffb41bf7de56b46aa4573becd77908e" src="https://github.com/user-attachments/assets/d6b4f4eb-e1f4-4e87-9086-049b86e920d7" />
+
+<img width="646" height="791" alt="image" src="https://github.com/user-attachments/assets/2587cce0-4c6a-4506-970e-36973a883f33" />
+
+
 
 ## 📦 安装
 崽根目录
